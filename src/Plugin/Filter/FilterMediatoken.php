@@ -11,8 +11,8 @@ use Drupal\Core\Form\FormStateInterface;
  *
  * @Filter(
  *   id = "mediatoken",
- *   title = @Translation("Celebrate Filter"),
- *   description = @Translation("Help this text format celebrate good times!"),
+ *   title = @Translation("Media token Converter"),
+ *   description = @Translation("Convert d7 media module media tokens"),
  *   type = Drupal\filter\Plugin\FilterInterface::TYPE_MARKUP_LANGUAGE,
  * )
  */
