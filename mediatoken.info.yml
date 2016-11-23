@@ -1,0 +1,5 @@
+name: Mediatoken
+description: Drupal 7 media token conventer img tags
+type: module
+package: 'Input filters'
+core: 8.x
